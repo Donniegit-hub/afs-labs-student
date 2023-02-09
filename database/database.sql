@@ -1,4 +1,4 @@
---
+-- Improving the pipeline
 -- PostgreSQL database dump
 --
 
